@@ -15,7 +15,7 @@ A full-stack machine learning web application for detecting and classifying oral
 
 🛠️ Tech Stack
 - **Backend**: Python, Django, SQLite
-- **Frontend**: HTML, CSS, Bootstrap
+- **Frontend**: HTML, CSS, JS, Bootstrap
 - **ML Models**: CNN, SVM (Scikit-learn, TensorFlow)
 
 ---
